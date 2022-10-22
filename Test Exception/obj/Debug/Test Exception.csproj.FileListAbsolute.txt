@@ -1,0 +1,26 @@
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\Test Exception.exe.config
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\Test Exception.exe
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\Test Exception.pdb
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\EntityFramework.dll
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\EntityFramework.xml
+C:\Users\Jet\source\repos\Test Exception\Test Exception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.csproj.AssemblyReference.cache
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.csproj.CoreCompileInputs.cache
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.csproj.CopyComplete
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.exe
+C:\Users\Jet\source\repos\Test Exception\Test Exception\obj\Debug\Test Exception.pdb
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\Test Exception.exe.config
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\Test Exception.exe
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\Test Exception.pdb
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\EntityFramework.dll
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\EntityFramework.xml
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.csproj.AssemblyReference.cache
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.csproj.CoreCompileInputs.cache
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.csproj.CopyComplete
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.exe
+C:\Users\Jet\Source\Repos\Test-Exception\Test Exception\obj\Debug\Test Exception.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="itsdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="club">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="description" Type="nvarchar(max)" />
+    <Property Name="image" Type="nvarchar(max)" />
+    <Property Name="date_created" Type="datetime" Nullable="false" />
+    <Property Name="date_update" Type="datetime" />
+    <Property Name="created_by" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="updated_by" Type="nvarchar(max)" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="regional_id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="national">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="description" Type="nvarchar(max)" />
+    <Property Name="image" Type="nvarchar(max)" />
+    <Property Name="date_created" Type="datetime" Nullable="false" />
+    <Property Name="date_update" Type="datetime" />
+    <Property Name="created_by" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="updated_by" Type="nvarchar(max)" />
+    <Property Name="is_active" Type="bit" />
+  </EntityType>
+  <EntityType Name="regional">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="description" Type="nvarchar(max)" />
+    <Property Name="image" Type="nvarchar(max)" />
+    <Property Name="date_created" Type="datetime" Nullable="false" />
+    <Property Name="date_update" Type="datetime" />
+    <Property Name="created_by" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="updated_by" Type="nvarchar(max)" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="national_id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="itsdbModelStoreContainer">
+    <EntitySet Name="club" EntityType="Self.club" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="national" EntityType="Self.national" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="regional" EntityType="Self.regional" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
